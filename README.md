@@ -34,7 +34,7 @@ I've created this portfolio to showcase my academic achievements, demonstrate my
 - Technologies: Pytorch, Jupyter Notebook
 - My Role: exploratory data analysis, data pre-processing, vectorization, modeling, hyperparameter tuning, and evaluation.
 
-### Project 4: Text Classification
+### Project 4: Text Classification [[Link]](https://github.com/ferren11/My-Academic-Portfolio/blob/main/Text%20Mining/text%20classification/case1_2440013071.ipynb)
 - Overview: conduct text mining process in classifying multiclass classification case. (submitted for Text Mining final exam)
 - Technologies: Jupyter Notebook
 - My Role: exploratory data analysis, data pre-processing, vectorization, modeling, and evaluation.
