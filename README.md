@@ -16,15 +16,15 @@ I've created this portfolio to showcase my academic achievements, demonstrate my
 - Project 9: Sentiment Analysis using Deep Belief Network [[Link]](https://github.com/ferren11/My-Academic-Portfolio/blob/main/Deep%20Learning%20and%20Optimization/Sentiment%20Analysis/Sentiment%20Analysis.ipynb)
 - Project 10: Estimation of Flight Ticket Price using Dummy Regression Analysis [[Link]](https://github.com/ferren11/My-Academic-Portfolio/tree/main/Regression%20Analysis)
 - Project 11: Crime Rate Classification [[Link]](https://github.com/ferren11/My-Academic-Portfolio/blob/main/Machine%20Learning/Crime%20Rate%20Classification/2440013071_FinalExam.ipynb)
-- Project 12: Penguin Classification [[Link]] (https://github.com/ferren11/My-Academic-Portfolio/blob/main/Machine%20Learning/Penguin%20Classification/2440013071_MidExam.ipynb)
+- Project 12: Penguin Classification [[Link]](https://github.com/ferren11/My-Academic-Portfolio/blob/main/Machine%20Learning/Penguin%20Classification/2440013071_MidExam.ipynb)
 
 ## Project Descriptions
-### Project 1: Bifestment
+### Project 1: Bifestment [[Link]](https://github.com/ferren11/BiFestment-project)
 - Overview: Bifestment is a web-based application integrating information and registration for self-development events, such as seminars, workshops, and boot camps within BINUS University. (as a fulfillment to Software Engineering, Human-Computer Interaction, and Entrepreneurship Subjects)
 - Technologies: Laravel Framework, Bootstrap
 - My Role: take part in developing the application from conceptualization and planning to deployment. 
 
-### Project 2: Sbucks App Remake
+### Project 2: Sbucks App Remake [[Link]](https://github.com/ferren11/Sbucks-WebApp-Remake/tree/master)
 - Overview: a trial to remake a coffee shop web application, consisting of ordering and transaction history features. (submitted as Web Programming mid-exam)
 - Technologies: Laravel Framework, Bootstrap
 - My Role: developing the application using Laravel framework. 
@@ -74,7 +74,7 @@ I've created this portfolio to showcase my academic achievements, demonstrate my
 - Technologies: Jupyter Notebook
 - My Role: data exploration, data preparation, modeling, and evaluation.
 
-### Project 12: Penguin Classification [[Link]] (https://github.com/ferren11/My-Academic-Portfolio/blob/main/Machine%20Learning/Penguin%20Classification/2440013071_MidExam.ipynb)
+### Project 12: Penguin Classification [[Link]](https://github.com/ferren11/My-Academic-Portfolio/blob/main/Machine%20Learning/Penguin%20Classification/2440013071_MidExam.ipynb)
 - Overview: conduct end-to-end machine learning project on classifying the species of penguins. (submitted for Machine Learning mid-exam)
 - Technologies: Jupyter Notebook
 - My Role: data exploration, data preparation, modeling, and evaluation.
